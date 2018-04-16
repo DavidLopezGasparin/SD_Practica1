@@ -1,6 +1,8 @@
 En aquest readme separem i descrivim les diferents parts del nostre projecte.
 - Script Principal
   - S'encarrega de matar els processos anteriors que puguin estar utilitzant els mateixos ports
+  - Multiplica el fitxer depenent del nombre que li passem per paràmetre
+  - Divideix la feina del fitxer entre els diferents processos
   - Executa el mapReduce depenent dels paràmetres que li passem
 
 - Spawn
